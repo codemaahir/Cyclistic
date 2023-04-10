@@ -12,4 +12,5 @@ I have followed the Data Analysis Process highlighted in this course:
 4. **Analyze**<br>
 5. **Share**<br>
 6. **Act**<br>
-I have tried my best to follow these processes and follow the [guide](https://drive.google.com/file/d/1v8Euu5ixejZLbMWhaUEnaNGR_myImZ1r/view?usp=sharing) which they have provided.
+<br>
+I have tried my best to follow these processes and follow the [guide](https://drive.google.com/file/d/1v8Euu5ixejZLbMWhaUEnaNGR_myImZ1r/view?usp=sharing) which they have provided. As this is my first case study, I am sure it has a lot of room to improve. And lucky for me, I am open to suggestions. I would be more than happy if I recieve quality suggestions to improve my skills.
